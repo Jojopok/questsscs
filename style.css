@@ -1,0 +1,102 @@
+.firstStep {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Aniron", sans-serif;
+  }
+  
+  .secondStep {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Aniron", sans-serif;
+  }
+  
+  .twoRing {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 4px solid #ff8000;
+    background-color: transparent;
+    box-shadow: 0 0 20px #ffb366, 0 0 40px #ffe6cc, 0 0 60px white;
+    margin: 10px;
+  }
+  
+  .oneRing {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 4px solid #FFFF00;
+    background-color: transparent;
+    box-shadow: 0 0 20px #ffff66, 0 0 40px #ffffcc, 0 0 60px white;
+    margin: 10px;
+  }
+  
+  .ring.ring1, .ring2.ring1, .ring3.ring1, .ring4.ring1, .ring5.ring1, .ring6.ring1 {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 4px solid #000000;
+    background-color: transparent;
+    box-shadow: 0 0 20px #333333, 0 0 40px #666666, 0 0 60px #999999;
+    margin: -7px;
+  }
+  .ring.ring2, .ring2.ring2, .ring3.ring2, .ring4.ring2, .ring5.ring2, .ring6.ring2 {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 4px solid #000000;
+    background-color: transparent;
+    box-shadow: 0 0 20px #333333, 0 0 40px #666666, 0 0 60px #999999;
+    margin: -7px;
+  }
+  .ring.ring3, .ring2.ring3, .ring3.ring3, .ring4.ring3, .ring5.ring3, .ring6.ring3 {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 4px solid #000000;
+    background-color: transparent;
+    box-shadow: 0 0 20px #333333, 0 0 40px #666666, 0 0 60px #999999;
+    margin: -7px;
+  }
+  .ring.ring4, .ring2.ring4, .ring3.ring4, .ring4.ring4, .ring5.ring4, .ring6.ring4 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 4px solid #000000;
+    background-color: transparent;
+    box-shadow: 0 0 20px #333333, 0 0 40px #666666, 0 0 60px #999999;
+    margin: -7px;
+  }
+  .ring.ring5, .ring2.ring5, .ring3.ring5, .ring4.ring5, .ring5.ring5, .ring6.ring5 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 4px solid #000000;
+    background-color: transparent;
+    box-shadow: 0 0 20px #333333, 0 0 40px #666666, 0 0 60px #999999;
+    margin: -7px;
+  }
+  .ring.ring6, .ring2.ring6, .ring3.ring6, .ring4.ring6, .ring5.ring6, .ring6.ring6 {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 4px solid #000000;
+    background-color: transparent;
+    box-shadow: 0 0 20px #333333, 0 0 40px #666666, 0 0 60px #999999;
+    margin: -7px;
+  }
+  
+  .rings {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Aniron", sans-serif;
+  }
+  
+  .thirdStep {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Aniron", sans-serif;
+  }
